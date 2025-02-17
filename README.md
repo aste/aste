@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=15&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF&desc=Full-Stack%20Developer%0ABuilding%20Scalable%20Systems&descAlignY=50&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name%0AFull-Stack%20Developer%0ABuilding%20Scalable%20Systems&fontAlign=50&fontAlignY=40&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF)
 
 
 
@@ -6,6 +6,7 @@
 <!--
 PLAU
 HEN-rik-sen
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=15&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF&desc=Full-Stack%20Developer%0ABuilding%20Scalable%20Systems&descAlignY=50&descAlign=50)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=20&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF&desc=Full-Stack%20Developer%0AProblem%20Solver%0ALifelong%20Learner&descAlignY=50&descAlign=50)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=Your%20Name&fontAlign=50&fontAlignY=20&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=40&descAlign=50&textBg=true)
 
