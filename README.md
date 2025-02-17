@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=1000&text=Your%20Name%20AFull-Stack%20Developer-nl-ABuilding%20Scalable%20Systems&fontAlign=50&fontAlignY=40&color=35:4158D0,50:C850C0,100:FFCC70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=1000&text=Your%20Name%20)
 
 
 
