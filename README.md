@@ -1,7 +1,7 @@
-##  👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Aste%20Ploug%20Henriksen&amp;fontAlign=5&amp;fontAlignY=40&amp;color=gradient))
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Hi%20I'm%20Aste&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient))
 
 <!--
 
