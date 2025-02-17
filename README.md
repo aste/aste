@@ -1,9 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Aste%20Ploug%20Henriksen&amp;fontAlign=50&amp;fontAlignY=25&amp;color=gradient&desc=AH-steh&descAlignY=37&descAlign=15)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Aste%20Ploug%20Henriksen&amp;fontAlign=50&amp;fontAlignY=25&amp;color=gradient&desc=AH-steh&descAlignY=37&descAlign=15&desc=PLAU&descAlignY=37&descAlign=33)
 
 
 
 <!--
+PLAU
+HEN-rik-sen
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
