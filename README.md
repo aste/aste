@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=25&color=gradient&desc=Your&descAlignY=37&descAlign=15&desc=Your1&descAlignY=50&descAlign=15)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=25&color=gradient&desc=Your&descAlignY=37&descAlign=15&desc2=Your1&descAlignY=50&descAlign=15)
 
 
 
