@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=25&color=gradient&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=40&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=Aste%20Ploug%20Henriksen&fontAlign=50&fontAlignY=20&color=gradient&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|-nl-Lifelong%20Learner&descAlignY=40&descAlign=50)
 
 
 
