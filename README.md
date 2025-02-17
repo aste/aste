@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=25&color=gradient&desc=Your%20Phonetic%20Name&descAlignY=37&descAlign=15&desc2=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descAlign=50&desc3=Building%20Scalable%20Systems&desc3AlignY=70&desc3Align=50&desc4=Let's%20Connect!&desc4AlignY=85&desc4Align=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Your%20Name&fontAlign=50&fontAlignY=25&color=gradient&desc=Your%20Phonetic&descAlignY=37&descAlign=15&desc2=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descAlign=50&desc3=Building%20Scalable%20Systems&desc3AlignY=70&desc3Align=50&desc4=Let's%20Connect!&desc4AlignY=85&desc4Align=50)
 
 
 
