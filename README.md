@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Aste%20Ploug%20Henriksen&amp;fontAlign=50&amp;fontAlignY=30&amp;color=gradient&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Aste%20Ploug%20Henriksen&amp;fontAlign=50&amp;fontAlignY=30&amp;color=gradient&desc=AH-steh%20PLAU%20HEN-rik-sen&descAlignY=45&descAlign=65)
 
 
 
