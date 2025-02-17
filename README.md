@@ -1,7 +1,7 @@
-## Hi I'm Aste 👋
+##  👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Waving!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient))
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Hi I'm Aste&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient))
 
 <!--
 
