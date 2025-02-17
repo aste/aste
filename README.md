@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=1000&text=Your%20Name%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=1000&text=Your%20Name%20-nl-Test2-nl-Test3)
 
 
 
