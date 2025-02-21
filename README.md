@@ -4,18 +4,19 @@
 
 
 
-#### 🧠 Algorithmic Challenges & Rankings
+#### Challenges & Rankings
 <p align="left">
+      <a href="https://leetcode.com/u/asteploug/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasteploug&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
+  </a>
   <a href="https://www.codewars.com/users/asteploug">
     <img src="https://www.codewars.com/users/asteploug/badges/micro" alt="codewars badge">
   </a>
-      <a href="https://leetcode.com/asteploug/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasteploug&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
-  </a>
-    <a href="https://exercism.org/profiles/Aste-5413">
-    <img src="https://img.shields.io/badge/Exercism-Profile-blue?logo=exercism" alt="Exercism Profile Badge">
-  </a>
+  <a href="https://exercism.org/profiles/Aste-5413">
+    <img src="https://img.shields.io/badge/Exercism-Profile-5C1CAC?logo=exercism&logoColor=white" alt="Exercism Profile Badge">
+</a>
 </p>
+
 
 
 
