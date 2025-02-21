@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=14&height=180&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen-nl--nl--nl-Software%20Engineer%20|%20Full-Stack-nl--nl--nl--nl--nl-&desc=/%20AH-steh%20PLAU%20HEN-rik-sen%20/&descAlignY=26&descSize=14)
 
-# Hello Friend 👋
+### Hello Friend 👋
 
 
 
-## 🧠 Algorithmic Challenges & Rankings
+#### 🧠 Algorithmic Challenges & Rankings
 <p align="left">
   <a href="https://www.codewars.com/users/asteploug">
     <img src="https://www.codewars.com/users/asteploug/badges/micro" alt="codewars badge">
