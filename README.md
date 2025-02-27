@@ -39,13 +39,7 @@ I craft efficient, scalable, and user-centered software that drives impact. With
 - 🔹 **Performance Optimization**
 - 🔹 **Data Structures & Algorithms**
 
-#### 🚀 Let's Connect!
-
-🔗 [GitHub](https://github.com/yourusername)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🔗 [Twitter](https://twitter.com/yourhandle)  
-
-#### Challenges & Rankings
+#### Algorithmic Challenges
 <p align="left">
       <a href="https://leetcode.com/u/asteploug/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&lKey Areas of Focusabel=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasteploug&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
@@ -57,6 +51,12 @@ I craft efficient, scalable, and user-centered software that drives impact. With
     <img src="https://img.shields.io/badge/Exercism-Profile-5C1CAC?logo=exercism&logoColor=white" alt="Exercism Profile Badge">
 </a>
 </p>
+
+#### 🚀 Let's Connect!
+
+🔗 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [Twitter](https://twitter.com/yourhandle)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=0:43cea2,100:185a9d)
 
