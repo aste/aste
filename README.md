@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=22&height=160&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen-nl-Software%20Engineer%20|%20Full-Stack)
+![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=20&height=150&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen&desc=Software%20Engineer%20|%20Full-Stack&descAlignY=38&descSize=16)
 
 ### Hello Friend 👋🏽
 
