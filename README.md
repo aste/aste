@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=22&height=160&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen-nl-Software%20Engineer%20|%20Full-Stack)
 
-### Hello Friend 👋 
+### Hello Friend 👋🏽
 
 #### 🚀 Software Engineer | Full-Stack & Backend | Crafting Scalable & User-Centric Solutions  
 
