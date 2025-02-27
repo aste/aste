@@ -1,29 +1,47 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=20&height=150&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen&desc=Software%20Engineer%20|%20Full-Stack&descAlignY=38&descSize=16)
-### Hello Friend 👋🏽 #### 🚀 Software Engineer | Full-Stack & Backend | Crafting
-Scalable & User-Centric Solutions I craft efficient, scalable, and user-centered
-software that drives impact. With a background in civil engineering and
-computational design, I apply structured problem-solving, first-principles
-thinking, and curiosity to create high-performance applications. 💡 I thrive in
-**mission-driven environments** where innovation is refined through
-experimentation to build solutions for **future challenges that empower users
-and enhance their experience**. ![Aste's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=aste&theme=dark&show_icons=true)
---- #### 🔥 About Me - 🎯 **Transitioning from Civil Engineering to Software
-Engineering**, bringing expertise in **computational design, optimization, and
-automation** into **full-stack and backend development**. - 🏗 **Past Experience
-in Computational Design & Engineering**: - Optimized architectural workflows
-through **parametric design & automation**. - Developed **3D software tools**,
-saving **hundreds of hours of manual work**. - Led **urban safety projects**
-with cutting-edge technologies. - 🌍 Passionate about **disruptive
-technologies**, **global connectivity**, and the **power of software to shape
-the future**. - 🧠 **INTJ** – Analytical, curious, and efficiency-driven. ---
-#### 🛠️ Tech Stack ##### **Languages & Frameworks** - **Frontend:** JavaScript
-(ES6+), TypeScript, React.js, Tailwind CSS, Bootstrap - **Backend:** Node.js,
-Express.js, PostgreSQL, MongoDB, Python - **DevOps & Tools:** Git, CI/CD,
-Docker, Vite, Google Cloud Platform (GCP) ##### **Key Areas of Focus** - 🔹
-**Full-Stack Development** | **Backend Engineering** - 🔹 **API Development** |
-**Cloud Computing** - 🔹 **Authentication & Security** - 🔹 **Performance
-Optimization** - 🔹 **Data Structures & Algorithms** #### Algorithmic Challenges
+
+
+### Hello Friend 👋🏽
+
+#### 🚀 Software Engineer | Full-Stack & Backend | Crafting Scalable & User-Centric Solutions  
+
+I craft efficient, scalable, and user-centered software that drives impact. With a background in civil engineering and computational design, I apply structured problem-solving, first-principles thinking, and curiosity to create high-performance applications.
+
+💡 I thrive in **mission-driven environments** where innovation is refined through experimentation to build solutions for **future challenges that empower users and enhance their experience**.
+
+![Aste's GitHub stats](https://github-readme-stats.vercel.app/api?username=aste&theme=dark&show_icons=true)
+
+
+---
+
+#### 🔥 About Me
+
+- 🎯 **Transitioning from Civil Engineering to Software Engineering**, bringing expertise in **computational design, optimization, and automation** into **full-stack and backend development**.
+- 🏗 **Past Experience in Computational Design & Engineering**:
+  - Optimized architectural workflows through **parametric design & automation**.
+  - Developed **3D software tools**, saving **hundreds of hours of manual work**.
+  - Led **urban safety projects** with cutting-edge technologies.
+- 🌍 Passionate about **disruptive technologies**, **global connectivity**, and the **power of software to shape the future**.
+- 🧠 **INTJ** – Analytical, curious, and efficiency-driven.
+
+---
+
+#### 🛠️ Tech Stack
+
+##### **Languages & Frameworks**
+- **Frontend:** JavaScript (ES6+), TypeScript, React.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Python
+- **DevOps & Tools:** Git, CI/CD, Docker, Vite, Google Cloud Platform (GCP)
+
+##### **Key Areas of Focus**
+- 🔹 **Full-Stack Development** | **Backend Engineering**
+- 🔹 **API Development** | **Cloud Computing**
+- 🔹 **Authentication & Security**
+- 🔹 **Performance Optimization**
+- 🔹 **Data Structures & Algorithms**
+
+
+#### Algorithmic Challenges
 
 <p align="left">
   <a href="https://leetcode.com/u/asteploug/">
@@ -48,7 +66,7 @@ Optimization** - 🔹 **Data Structures & Algorithms** #### Algorithmic Challeng
 
 #### 🚀 Let's Connect!
 
-<p align="center">
+<p align="left">
   <a href="https://bsky.app/profile/asteploug.bsky.social"
     ><img
       src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white"
