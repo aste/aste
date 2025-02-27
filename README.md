@@ -9,6 +9,7 @@ I craft efficient, scalable, and user-centered software that drives impact. With
 💡 I thrive in **mission-driven environments** where innovation is refined through experimentation to build solutions for **future challenges that empower users and enhance their experience**.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=aste.aste)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aste.aste&left_color=green&right_color=red)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ![Aste's GitHub stats](https://github-readme-stats.vercel.app/api?username=aste&theme=dark&show_icons=true)
