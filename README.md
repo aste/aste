@@ -22,9 +22,9 @@
 
 
 #### Algorithmic Challenges
-[![Codewars](https://img.shields.io/badge/Codewars-Profile-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/asteploug)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/asteploug/)
-[![Exercism](https://img.shields.io/badge/exercism-Profile-5C1CAC?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/profiles/Aste-5413)
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/asteploug)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/asteploug/)
+[![Exercism](https://img.shields.io/badge/-exercism-5C1CAC?style=flat-square&logo=exercism&logoColor=white)](https://exercism.org/profiles/Aste-5413)
 
 
 <!--
