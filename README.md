@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&fontAlignY=20&height=150&color=0:43cea2,100:185a9d&fontColor=ffffff&animation=fadeIn&fontSize=24&text=Aste%20Ploug%20Henriksen&desc=Software%20Engineer%20|%20Full-Stack&descAlignY=38&descSize=16)
 
 ##### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -22,7 +22,6 @@
 
 
 ##### Tools & Platforms
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -34,30 +33,26 @@
 
 
 #### Algorithmic Challenges
-
-
-
 <p align="left">
-<a href="https://www.codewars.com/users/asteploug">
-  <img
-    src="https://img.shields.io/badge/Codewars-Profile-B1361E?style=flat-square&logo=codewars&logoColor=white"
-    alt="Codewars Profile"
-  />
-</a>
-<a href="https://leetcode.com/u/asteploug/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"
-    alt="LeetCode Profile"
-  />
-</a>
+  <a href="https://www.codewars.com/users/asteploug">
+    <img
+      src="https://img.shields.io/badge/Codewars-Profile-B1361E?style=flat-square&logo=codewars&logoColor=white"
+      alt="Codewars Profile"
+    />
+  </a>
+  <a href="https://leetcode.com/u/asteploug/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"
+      alt="LeetCode Profile"
+    />
+  </a>
 
-<a href="https://exercism.org/profiles/Aste-5413">
-  <img
-    src="https://img.shields.io/badge/exercism-Profile-5C1CAC?style=flat-square&logo=exercism&logoColor=white"
-    alt="Exercism Profile"
-  />
-</a>
-
+  <a href="https://exercism.org/profiles/Aste-5413">
+    <img
+      src="https://img.shields.io/badge/exercism-Profile-5C1CAC?style=flat-square&logo=exercism&logoColor=white"
+      alt="Exercism Profile"
+    />
+  </a>
 </p>
 
 <!-- 
